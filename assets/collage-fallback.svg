@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Wedding collage placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d7e2c8"/>
+      <stop offset="40%" stop-color="#e9dcc5"/>
+      <stop offset="100%" stop-color="#d6c1a7"/>
+    </linearGradient>
+    <linearGradient id="panel1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7e7d6"/>
+      <stop offset="100%" stop-color="#d4e5cf"/>
+    </linearGradient>
+    <linearGradient id="panel2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8d2cb"/>
+      <stop offset="100%" stop-color="#d7e5d5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="70" y="70" width="310" height="350" fill="url(#panel1)" opacity="0.96"/>
+  <rect x="420" y="70" width="400" height="350" fill="url(#panel2)" opacity="0.96"/>
+  <rect x="70" y="450" width="750" height="400" fill="#f5eadc" opacity="0.9"/>
+  <rect x="120" y="880" width="300" height="230" fill="#d7e5d5" opacity="0.9"/>
+  <rect x="460" y="880" width="340" height="230" fill="#e8d6d8" opacity="0.9"/>
+
+  <circle cx="272" cy="230" r="90" fill="#f1ccaf" opacity="0.45"/>
+  <circle cx="260" cy="260" r="68" fill="#d8bda9" opacity="0.4"/>
+  <circle cx="543" cy="230" r="90" fill="#e9d3e2" opacity="0.5"/>
+  <circle cx="690" cy="230" r="82" fill="#d7e2c8" opacity="0.5"/>
+
+  <g opacity="0.6">
+    <rect x="150" y="200" width="190" height="150" rx="24" fill="#f2e4d8"/>
+    <circle cx="245" cy="285" r="55" fill="#ceb7a1"/>
+    <path d="M170 330 C190 260, 280 250, 328 330 L328 350 L170 350 Z" fill="#8f6e59"/>
+    <rect x="198" y="155" width="85" height="120" rx="25" fill="#d4b08a"/>
+  </g>
+
+  <g opacity="0.7">
+    <rect x="470" y="190" width="180" height="150" rx="28" fill="#f0dfd4"/>
+    <circle cx="580" cy="273" r="52" fill="#d4b291"/>
+    <path d="M500 325 C530 250, 635 252, 650 330 L650 350 L500 350 Z" fill="#826554"/>
+  </g>
+
+  <g opacity="0.7">
+    <circle cx="350" cy="655" r="160" fill="#d9c6a0"/>
+    <circle cx="425" cy="660" r="130" fill="#d2b697"/>
+    <path d="M240 715 C310 620, 420 610, 490 715 L490 780 L240 780 Z" fill="#7f5f50"/>
+    <path d="M560 700 C620 600, 705 650, 725 760 L725 780 L560 780 Z" fill="#8d695f"/>
+  </g>
+
+  <g opacity="0.7">
+    <circle cx="185" cy="954" r="72" fill="#d2b09a"/>
+    <path d="M118 1000 C165 930, 245 930, 286 1000 L286 1062 L118 1062 Z" fill="#785b50"/>
+    <circle cx="610" cy="958" r="72" fill="#d4c7d9"/>
+    <path d="M500 1000 C560 950, 655 950, 706 1000 L706 1065 L500 1065 Z" fill="#775c55"/>
+  </g>
+
+  <g opacity="0.28">
+    <path d="M0 1100 C180 1030, 220 1030, 310 1100 L310 1200 L0 1200 Z" fill="#88a275"/>
+    <path d="M590 1100 C720 1035, 810 1030, 900 1105 L900 1200 L590 1200 Z" fill="#b8c9a5"/>
+  </g>
+</svg>
